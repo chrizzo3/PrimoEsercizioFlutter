@@ -1,17 +1,18 @@
-# prima_esercitazione
+# 📱 Prima Esercitazione Flutter - Counter App
 
-A new Flutter project.
+Esercitazione realizzata da **Christian Izzo**.
 
-## Getting Started
+Questa applicazione è una versione personalizzata ed avanzata della classica demo *Counter App* di Flutter, caratterizzata da un tema scuro (Dark Mode), personalizzazioni grafiche e nuove funzionalità per la gestione del contatore.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Modifiche Effettuate e Funzionalità
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- 👤 **Personalizzazione Titolo**: Aggiunta del nome dell'autore ("Christian Izzo") nella barra dell'applicazione (AppBar).
+- 🖤 **Sfondo Nero**: Cambiato il colore di background dello schermo in nero (`Colors.black`).
+- 🟢 **Elementi e Tema Verde**: Modificato il colore degli elementi principali utilizzando una tonalità verde (`Colors.greenAccent`).
+- ➕ **Incremento del Contatore**: Tasto dedicato per aumentare il valore del contatore.
+- ➖ **Decremento del Contatore**: Tasto dedicato per diminuire il valore del contatore (con protezione per evitare numeri negativi).
+- 🔄 **Reset del Contatore**: Pulsante di reset rapido (in basso a destra, di colore rosso) per riazzerare istantaneamente il contatore.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
